@@ -38,3 +38,8 @@ Thumbs.db
 /certs/
 /certs/*
 !/certs/README.md 
+# In backend/.gitignore
+# In backend/.gitignore
+certs/
+
+
